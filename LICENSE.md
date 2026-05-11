@@ -1,4 +1,4 @@
-
+Enhance Craft for macOS with secure Utility for Craft for macOS - database templates and dark mode, the #1 utility. Includes database templates and dark mode for a smoother
 
 
 
